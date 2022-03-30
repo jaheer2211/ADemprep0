@@ -1,0 +1,9 @@
+{
+	"name": "skj",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9db7dfd8-682c-4c00-aeb8-57ca857d0b97",
+		"tenantId": "a3855266-78b0-437e-add5-84bec5558349"
+	}
+}
